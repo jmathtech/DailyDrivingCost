@@ -11,4 +11,4 @@ Using the order of operation to calculate the variables according to the user's 
 ```
 
 ### Example (screenshot)
-![image](https://user-images.githubusercontent.com/36749450/95412304-b06f6700-08f6-11eb-8ccf-96528ffce10f.png)
+![image](https://user-images.githubusercontent.com/36749450/95412366-d39a1680-08f6-11eb-9a18-7b6573f07057.png)
